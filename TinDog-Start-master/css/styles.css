@@ -60,3 +60,25 @@ padding: 3% 15% ;
     margin: 5% 4% 5% 0;
 
 }
+
+.centered {
+    text-align: center;
+}
+
+.icons{
+    color:#ef8172 ;
+    padding-top: 4rem;
+    left: 5px;
+}
+
+h3{
+    font-family: "Montserrat";
+    padding-top: 1rem;
+    size: 1.5rem;
+    
+}
+
+i:hover{
+    color: #ff4c68;
+
+}
