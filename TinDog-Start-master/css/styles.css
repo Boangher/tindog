@@ -14,6 +14,12 @@ h1{
     line-height: 1.5;
 }
 
+h2{
+    font-family:"Montserrat-Bold" ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 h3{
     font-family:  "Montserrat-Bold";
     font-size: 1.5rem;
@@ -70,10 +76,6 @@ padding: 3% 15% ;
     margin-bottom: 1rem;
 }
 
-h3{
-    font-family: "Montserrat";
-    padding-top: 1rem;
-    size: 1.5rem;
     
 }
 p{
@@ -88,3 +90,32 @@ i:hover{
 #features{
     padding: 7% 15%;
 }
+
+
+/* Testimonial Section */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.testimonial-image{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+text-align: center;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
